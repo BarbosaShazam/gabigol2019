@@ -8,5 +8,5 @@ let nome = ['Joao','Danilo','Alexandre','Henrique','Carlos','Renato','Cleiton','
 let i = 0;
  {console.log(i)
  console.log (nome[i]);
- i=i++;}
+ i++;}
  
