@@ -14,3 +14,13 @@ while(i<nome.length){
     console.log(nome[i]);
 
  }
+
+ let idade = 15
+
+ if(idade > 17){
+    console.log('pode dirigir');
+ }
+
+ else{
+    console.log('Ilegal dirigir')
+ }
