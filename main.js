@@ -22,5 +22,5 @@ while(i<nome.length){
  }
 
  else{
-    console.log('Ilegal dirigir')
+    console.log('Ilegal dirigir');
  }
