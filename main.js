@@ -15,7 +15,7 @@ while(i<nome.length){
 
  }
 
- let idade = 15
+ let idade = ParseInt(prompt('qual é a sua idade?'))
 
  if(idade > 17){
     console.log('pode dirigir');
