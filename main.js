@@ -6,7 +6,7 @@
 
 let nome = ['Joao','Danilo','Alexandre','Henrique','Carlos','Renato','Cleiton','ana','maria','neide','Jesus','Cristo','Cristo','Lucia','Miguel','Martha','Darlan','Fernanda','Monteiro','Sanana'];
 let i = 0;
-while(i<nomes.lenght){
+while(i<nome.lenght){
  {console.log(i)
  console.log (nome[i]);
  i++;}}
