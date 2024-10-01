@@ -10,6 +10,6 @@ let i = 0;
  console.log (nome[i]);
  i++;}
  for (let i=0; i<nome.length;i++){console.log(i);
-    console.log(nomes[i]);
+    console.log(nome[i]);
 
  }
